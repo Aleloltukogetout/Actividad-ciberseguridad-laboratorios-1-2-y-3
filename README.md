@@ -1,4 +1,4 @@
-# Ciberseguridad_2026_Laboratorio
+# Ciberseguridad_Actividades_Laboratorio_2026
 
 Instituto Profesional Santo Tomás Iquique
 
